@@ -6,7 +6,7 @@ I competed in a team of 3 in a Columbia Engineering competition open to Masters 
 <li>Extensive feature engineering to capture temporal nature of consumer clicks.
 
 
-#About
+# About
 This competition was adapted from Avazu's highly popular Kaggle competition in 2015, linked 
 <a href="https://www.kaggle.com/c/avazu-ctr-prediction" target="_blank">here</a>.
 
