@@ -1,4 +1,4 @@
-# Columbia Engineering competiton: Predicting Click-through Rates
+# Columbia Engineering competiton: Predicting click-through rates
 ## Ensembled 12 CatBoost, XGBoost, LightGBM models using Stacking, with Elastic-Net Logistic Regression as meta-model
 
 I competed in a team of 3 in a Columbia Engineering competition open to Masters students, and placed 4<sup>th</sup> out of 200 participants.
